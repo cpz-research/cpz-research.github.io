@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- [University of Hamburg](https://www.iza.org/person/28688/christian-zimpelmann) -->
-I am a Postdoctoral Researcher at [University of Hamburg](https://www.wiso.uni-hamburg.de/en/fachbereich-vwl/professuren/kesternich/team/zimpelmann-christian.html) since 2024. After finishing my PhD at the University of Bonn in 2021, I was a postdoc at IZA, where I still am an associated member. In May 2023, I visited the University of Oxford. 
+I am a Postdoctoral Researcher at [University of Hamburg](https://www.wiso.uni-hamburg.de/en/fachbereich-vwl/professuren/kesternich/team/zimpelmann-christian.html) since 2024. After finishing my PhD at the University of Bonn in 2021, I was a postdoc at IZA, where I still am a research fellow and an associated member. In May 2023, I visited the University of Oxford. 
 
 <!-- I am on the 2023/2024 academic job market. Find my Job Market Paper [here](jmp). -->
 
