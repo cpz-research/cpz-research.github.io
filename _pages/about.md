@@ -29,4 +29,6 @@ Please reach out to me if you would like to talk about my or your research!
 
 On the following pages, you find my [ongoing research projects](ongoing-research), my [publications](publications), and my [CV](cv).
 
+**Note:** I recently got married, and my last name has changed from Christian Zimpelmann to Christian Pugnaghi Zimpelmann (Pugnaghi ≈ Poon-yah-ghee)
+
 
