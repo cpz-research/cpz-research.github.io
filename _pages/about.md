@@ -32,7 +32,7 @@ On the following pages, you find my [ongoing research projects](ongoing-research
 
 **News:** 
 
-- My paper `Proud to Not Own Stocks: How Identity Shapes Financial Decisions' received a **Revise and Resubmit** at the *Review of Financial Studies*
+- My paper `Proud to Not Own Stocks: How Identity Shapes Financial Decisions' received a **Revise and Resubmit** at the *Review of Financial Studies*.
 - I recently got married and added *Pugnaghi* (≈ Poon-yah-ghee) to my last name.
 
 
