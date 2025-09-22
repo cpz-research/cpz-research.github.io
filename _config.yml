@@ -8,6 +8,7 @@
 # Site Settings
 locale: "en-US"
 title: "Christian Pugnaghi Zimpelmann"
+label_home: "About me"
 title_separator: "-"
 name: &name "Christian Pugnaghi Zimpelmann"
 description: &description "Labor Economics; Behavioral Economics; Household Finance"

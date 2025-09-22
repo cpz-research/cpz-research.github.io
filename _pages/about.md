@@ -15,22 +15,22 @@ I am a Postdoctoral Researcher at [University of Hamburg](https://www.wiso.uni-h
 
 <!-- <p>&nbsp;</p> -->
 
-[//]: # My research is on the intersection of labor economics, behavioral economics, and household finance.
+<!-- [//]: # My research is on the intersection of labor economics, behavioral economics, and household finance. -->
 
 I am interested in labor supply and financial decision of households, with a particular focus on the behavioral foundations underlying these choices and how they are influenced by the institutional environment. Methodologically, I use advanced econometric and computational methods and utilize both self-collected survey data and large-scale administrative data sets.
 
-[//]: # I enjoy working on complex research projects that require advanced computational skills and state-of-the-art data science techniques.
+<!-- [//]: # I enjoy working on complex research projects that require advanced computational skills and state-of-the-art data science techniques. -->
 
-I have made significant contributions to the development of [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim), an open-source model of the German tax and transfer system which I apply in my research.
+<!-- I have made significant contributions to the development of [GETTSIM](https://github.com/iza-institute-of-labor-economics/gettsim), an open-source model of the German tax and transfer system which I apply in my research. -->
 
 Please reach out to me if you would like to talk about my or your research!
 
-[//]: # I apply GETTSIM in both my research and a project commissioned by the German Ministry of Family Affairs on the effects of a new basic child security (Kindergrundsicherung).
+<!-- [//]: # I apply GETTSIM in both my research and a project commissioned by the German Ministry of Family Affairs on the effects of a new basic child security (Kindergrundsicherung). -->
 
 On the following pages, you find my [ongoing research projects](ongoing-research), my [publications](publications), and my [CV](cv).
 
 
-**News:** 
+***News*:** 
 
 - My paper `Proud to Not Own Stocks: How Identity Shapes Financial Decisions' received a Revise and Resubmit at the *Review of Financial Studies*
 - I recently got married and added Pugnaghi (≈ Poon-yah-ghee) to my last name.

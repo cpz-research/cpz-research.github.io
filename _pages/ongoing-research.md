@@ -34,7 +34,7 @@ We examine the influence of gender role attitudes, specifically views about the 
 
 
 ### Proud to Not Own Stocks: How Identity Shapes Financial Decisions | [Luca Henkel](https://luca-henkel.github.io/){:target="\_blank"} | *Review of Financial Studies*, Revise and Resubmit
-
+*Review of Financial Studies*, Revise and Resubmit
 <details>
     <summary>
       Abstract | 
