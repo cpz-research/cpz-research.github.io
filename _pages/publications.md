@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-### Skewness Expectations and Portfolio Choice | [Tilman H. Drerup](https://sites.google.com/site/tdrerup/){:target="\_blank"} and [Matthias Wibral](https://www.maastrichtuniversity.nl/m.wibral){:target="\_blank"} | Experimental Economics (2023)
+### Skewness Expectations and Portfolio Choice | [Tilman H. Drerup](https://sites.google.com/site/tdrerup/){:target="\_blank"} and [Matthias Wibral](https://www.maastrichtuniversity.nl/m.wibral){:target="\_blank"} | *Experimental Economics* (2023)
 <details>
     <summary>
       Abstract | 
@@ -18,7 +18,7 @@ author_profile: true
     Many models of investor behavior predict that investors prefer assets that they believe to have positively skewed return distributions. We elicit detailed return expectations for a broad index fund and a single stock in a representative sample of the Dutch population. The data show substantial heterogeneity in individuals' skewness expectations of which only very little is captured by sociodemographics. Across assets, most respondents expect a higher variance and skewness for the individual stock compared to the index fund. Portfolio allocations increase with the skewness of respondents' return expectations for the respective asset, controlling for other moments of a respondent's expectations.
   </details>
 
-### Job Search during a Pandemic Recession: Survey Evidence from the Netherlands | [Maria Balgova](https://sites.google.com/view/mariabalgova){:target="\_blank"}, [Simon Trenkle](https://www.iza.org/person/24066/simon-trenkle){:target="\_blank"}, and [Nico Pestel](https://sites.google.com/site/pestelecon/){:target="\_blank"} | Labour Economics (2022)
+### Job Search during a Pandemic Recession: Survey Evidence from the Netherlands | [Maria Balgova](https://sites.google.com/view/mariabalgova){:target="\_blank"}, [Simon Trenkle](https://www.iza.org/person/24066/simon-trenkle){:target="\_blank"}, and [Nico Pestel](https://sites.google.com/site/pestelecon/){:target="\_blank"} | *Labour Economics* (2022)
 
 <details>
   <summary>
@@ -30,7 +30,7 @@ author_profile: true
   This paper studies job search behavior in the midst of a pandemic recession. We use long-running panel data from the Netherlands (LISS) and complement the core survey with our own COVID-specific module, conducted in June 2020, surveying job search effort of employed as well as unemployed respondents. We estimate an empirical model of job search over the business cycle over the period 2008–2019 to explore the gap between predicted and actual job search behavior in 2020. We find that job search during the pandemic recession differs strongly from previous downturns. The unemployed search significantly less than what we would normally observe during a recession of this size. For the employed, the propensity to search is even greater than what we would expect, but those who do search make significantly fewer job applications. Expectations about the duration of the pandemic seem to play a key role in explaining job search effort for the unemployed in 2020. Furthermore, employed individuals whose work situation has been affected by COVID-19 are searching more actively for a new job.
 </details>
 
-### Hours and income dynamics during the CoViD-19 pandemic: The case of the Netherlands | [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"}, [Radost Holler](https://sites.google.com/view/radostholler){:target="\_blank"}, [Lena Janys](https://sites.google.com/site/janyslena/){:target="\_blank"}, and [Bettina Siflinger](https://sites.google.com/site/bettinasiflinger/){:target="\_blank"} | Labour Economics (2021)
+### Hours and income dynamics during the CoViD-19 pandemic: The case of the Netherlands | [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"}, [Radost Holler](https://sites.google.com/view/radostholler){:target="\_blank"}, [Lena Janys](https://sites.google.com/site/janyslena/){:target="\_blank"}, and [Bettina Siflinger](https://sites.google.com/site/bettinasiflinger/){:target="\_blank"} | *Labour Economics* (2021)
 
 <details>
     <summary>
@@ -45,7 +45,7 @@ author_profile: true
 
 </details>
 
-## Project reports
+## Policy project reports (in German)
 
 **Auswirkungen des gesetzlichen Mindestlohns auf individuelle Beschäftigungsbewegungen und betriebliche Lohnstrukturen in den Jahren 2015 bis 2020** &#124; [Ingo Isphording](https://sites.google.com/view/ingoeisphording/about-me){:target="\_blank"}, [Marco Caliendo](https://caliendo.de/){:target="\_blank"}, [Robert Mahlstedt](http://www.robertmahlstedt.com/){:target="\_blank"}, and [Nico Pestel](https://sites.google.com/site/pestelecon/){:target="\_blank"} &#124; Studie im Auftrag der Mindestlohnkommission 2022 &#124; <a  href="https://econpapers.repec.org/paper/izaizarrs/133.htm" role="button" target="_blank"> Study </a> 
 
