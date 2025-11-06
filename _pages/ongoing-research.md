@@ -22,7 +22,7 @@ We examine the influence of gender role attitudes, specifically views about the 
 <details>
     <summary>
       Abstract | 
-      <a  href="https://christian-pugnaghi-zimpelmann.com/files/wfh-parental-division-labor.pdf" role="button" target="_blank">Working Paper</a> |
+      <a  href="https://www.crctr224.de/research/discussion-papers/archive/dp661" role="button" target="_blank">Working Paper</a> |
       <a  href="https://newsroom.iza.org/de/press/in-the-media/wie-sich-der-child-care-gap-losen-lasst/" role="button" target="_blank">Coverage: Wirtschaftswoche 23, 2023</a> |
       <a  href="https://www.faz.net/aktuell/karriere-hochschule/maenner-mit-homeoffice-job-uebernehmen-mehr-verantwortung-fuer-ihre-kinder-19939089.html" role="button" target="_blank">Coverage: FAZ Aug 2024</a>
 
