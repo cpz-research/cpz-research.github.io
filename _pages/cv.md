@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a  href="https://christian-pugnaghi-zimpelmann.com/files/cv_c_pugnaghi_zimpelmann.pdf" role="button" target="_blank">Download CV</a>
+<a  href="https://christian-pugnaghi-zimpelmann.com/files/cv_cpz.pdf" role="button" target="_blank">Download CV</a>
 
 <!-- <embed src="{{ site.baseurl }}/files/cv_christian_zimpelmann.pdf" width="600" height="700" type='application/pdf'> -->
