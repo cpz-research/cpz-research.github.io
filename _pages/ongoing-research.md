@@ -33,17 +33,6 @@ We examine the influence of gender role attitudes, specifically views about the 
 </details>
 
 
-### Proud to Not Own Stocks: How Identity Shapes Financial Decisions | [Luca Henkel](https://luca-henkel.github.io/){:target="\_blank"} | *Review of Financial Studies*, conditionally accepted
-
-<details>
-    <summary>
-      Abstract | 
-      <a  href="https://luca-henkel.github.io/papers/Stock_Identity_Henkel_Zimpelmann.pdf" role="button" target="_blank">Working Paper</a>
-    </summary>    
-        This paper introduces a key factor influencing households' decision to invest in the stock market: how people view stockholders. Using surveys we conducted with nearly 8,500 individuals from eleven countries, we document that a large majority of respondents view stockholders negatively -- they are perceived as greedy, gambler-like, and selfish individuals. We then provide experimental evidence that such perceptions of identity-relevant characteristics causally influence decision-making: if people view stockholders more negatively, they are less likely to choose stock-related investments. Furthermore, by linking survey and administrative data, we show that negative perceptions strongly predict households' stock market participation, more so than leading alternative determinants. Our findings provide a novel explanation for the puzzlingly low stock market participation rates around the world, new perspectives on the malleability of financial decision-making, and evidence for the importance of identity in economic decision-making.
-
-</details>
-
 ### The Distribution and Relevance of Ambiguity Attitudes | [Hans-Martin von Gaudecker](https://www.wiwi.uni-bonn.de/gaudecker){:target="\_blank"} and [Axel Wogrolly](https://www.linkedin.com/in/axel-wogrolly-1b528696/){:target="\_blank"}
 
 <details>

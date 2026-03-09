@@ -7,6 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+
+### Proud to Not Own Stocks: How Identity Shapes Financial Decisions | [Luca Henkel](https://luca-henkel.github.io/){:target="\_blank"} | *Review of Financial Studies (accepted)*
+
+<details>
+    <summary>
+      Abstract | 
+      <a  href="https://luca-henkel.github.io/papers/Stock_Identity_Henkel_Zimpelmann.pdf" role="button" target="_blank">Paper</a> |
+      <a  href="https://www.wiwo.de/finanzen/boerse/boersenwoche-399-analyse-die-meisten-denken-aktionaere-seien-gierig/29015622.html" role="button" target="_blank">Coverage: Wirtschaftswoche</a> |
+      <a  href="https://doi.org/10.7910/DVN/FPEQGK" role="button" target="_blank"> Replication Package </a>
+    </summary>    
+        This paper introduces a key factor influencing households' decision to invest in the stock market: how people view stockholders. Using surveys we conducted with nearly 8,500 individuals from eleven countries, we document that a large majority views stockholders negatively on identity-relevant characteristics. Linking survey and administrative data, we find that these negative perceptions strongly predict households' stock market participation. We then show that negative perceptions causally influence decision-making and provide evidence supporting identity concerns as the underlying mechanism. Our findings provide new perspectives on the malleability of financial decision-making and a novel explanation for low stock market participation rates.
+
+</details>
+
+
 ### Skewness Expectations and Portfolio Choice | [Tilman H. Drerup](https://sites.google.com/site/tdrerup/){:target="\_blank"} and [Matthias Wibral](https://www.maastrichtuniversity.nl/m.wibral){:target="\_blank"} | *Experimental Economics* (2023)
 <details>
     <summary>
