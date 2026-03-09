@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 
-### Proud to Not Own Stocks: How Identity Shapes Financial Decisions | [Luca Henkel](https://luca-henkel.github.io/){:target="\_blank"} | *Review of Financial Studies (accepted)*
+### Proud to Not Own Stocks: How Identity Shapes Financial Decisions | [Luca Henkel](https://luca-henkel.github.io/){:target="\_blank"} | *Review of Financial Studies (forthcoming)*
 
 <details>
     <summary>
