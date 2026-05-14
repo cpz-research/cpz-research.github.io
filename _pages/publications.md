@@ -13,7 +13,8 @@ author_profile: true
 <details>
     <summary>
       Abstract | 
-      <a  href="https://luca-henkel.github.io/papers/Stock_Identity_Henkel_Zimpelmann.pdf" role="button" target="_blank">Paper</a> |
+      <a  href="https://academic.oup.com/rfs/advance-article/doi/10.1093/rfs/hhag034/8677631" role="button" target="_blank">Published Paper </a> |
+      <a  href="https://christian-pugnaghi-zimpelmann.com/files/paper_ident_invest.pdf" role="button" target="_blank"> Last Working Paper Version </a> | 
       <a  href="https://www.wiwo.de/finanzen/boerse/boersenwoche-399-analyse-die-meisten-denken-aktionaere-seien-gierig/29015622.html" role="button" target="_blank">Coverage: Wirtschaftswoche</a> |
       <a  href="https://doi.org/10.7910/DVN/FPEQGK" role="button" target="_blank"> Replication Package </a>
     </summary>    
