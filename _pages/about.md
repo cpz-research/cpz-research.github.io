@@ -34,6 +34,6 @@ On the following pages, you find my [ongoing research projects](ongoing-research
 
 - New working paper: `Sorting in Marriage Markets: The Role of Non-Wage Amenities'
 - My paper `Proud to Not Own Stocks: How Identity Shapes Financial Decisions' was **accepted** at the *Review of Financial Studies*.
-- I recently got married and added *Pugnaghi* (≈ Poon-yah-ghee) to my last name.
+- I got married and added *Pugnaghi* (≈ Poon-yah-ghee) to my last name.
 
 
