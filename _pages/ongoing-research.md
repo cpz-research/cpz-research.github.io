@@ -6,6 +6,19 @@ author_profile: true
 ---
 
 {% include base_path %}
+
+
+### Sorting in Marriage Markets: The Role of Non-Wage Amenities | [Andrew Judy](https://www.wiso.uni-hamburg.de/fachbereich-vwl/professuren/kesternich/team/judy-andrew.html){:target="\_blank"}, [Iris Kesternich](https://sites.google.com/site/kesternichiris/home){:target="\_blank"}, and [Isadora Mathevet](https://www.wiso.uni-hamburg.de/fachbereich-vwl/professuren/kesternich/team/mathevet-isadora.html){:target="\_blank"} | *Journal of Public Economics*, Revise and Resubmit
+
+<details>
+    <summary>
+      Abstract | 
+      <a  href="https://christian-pugnaghi-zimpelmann.com/files/MM_and_non_wage_attributes.pdf" role="button" target="_blank">Working Paper</a> 
+      
+    </summary>    
+    Partners often match on similar characteristics, such as demographics and wages, contributing to inequality between households. We study whether non-wage job amenities—an important part of compensation in the labor market that may also affect household production—play a role in marriage sorting. Using linked survey and administrative data from Germany, we infer individuals’ expected future job attributes from their jobs at the time of matching and estimate a frictionless transferable-utility model. We find positive assortative matching on lifetime earnings, part-time work potential, and schedule regularity, suggesting complementarities within households. In contrast, we find no evidence of sorting on work meaning. Counterfactual simulations show that while assortative matching increases inequality overall, sorting on non-wage amenities slightly reduces it, lowering the Gini coefficient of total compensation by 3.3 percent.
+</details>
+
 ### How Gender Role Attitudes Shape Maternal Labor Supply | [Tim Mensinger](https://tmensinger.com/){:target="\_blank"}
 
 <details>
@@ -45,16 +58,6 @@ We examine the influence of gender role attitudes, specifically views about the 
 </details>
 
 
-### Sorting in Marriage Markets: The Role of Non-Wage Amenities | [Andrew Judy](https://www.wiso.uni-hamburg.de/fachbereich-vwl/professuren/kesternich/team/judy-andrew.html){:target="\_blank"}, [Iris Kesternich](https://sites.google.com/site/kesternichiris/home){:target="\_blank"}, and [Isadora Mathevet](https://www.wiso.uni-hamburg.de/fachbereich-vwl/professuren/kesternich/team/mathevet-isadora.html){:target="\_blank"} 
-
-<details>
-    <summary>
-      Abstract | 
-      <a  href="https://christian-pugnaghi-zimpelmann.com/files/MM_and_non_wage_attributes.pdf" role="button" target="_blank">Working Paper</a> 
-      
-    </summary>    
-    Partners often match on similar characteristics, such as demographics and wages, contributing to inequality between households. We study whether non-wage job amenities—an important part of compensation in the labor market that may also affect household production—play a role in marriage sorting. Using linked survey and administrative data from Germany, we infer individuals’ expected future job attributes from their jobs at the time of matching and estimate a frictionless transferable-utility model. We find positive assortative matching on lifetime earnings, part-time work potential, and schedule regularity, suggesting complementarities within households. In contrast, we find no evidence of sorting on work meaning. Counterfactual simulations show that while assortative matching increases inequality overall, sorting on non-wage amenities slightly reduces it, lowering the Gini coefficient of total compensation by 3.3 percent.
-</details>
 
   
 ### Beliefs and Portfolio Choice in a Representative Population
