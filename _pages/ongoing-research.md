@@ -60,7 +60,7 @@ We examine the influence of gender role attitudes, specifically views about the 
 
 
   
-### Beliefs and Portfolio Choice in a Representative Population
+### Stock Market Beliefs and Portfolio Choice in the General Population
 
 <details>
     <summary>
